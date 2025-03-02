@@ -27,6 +27,7 @@ require("lazy").setup({
     require("plugins.treesitter"),
     require("plugins.color_scheme"),
     require("plugins.nvim_tree"),
+    require("plugins.telescope"),
   },
   -- Configure any other settings here. See the documentation for more details.
   -- colorscheme that will be used when installing plugins.
