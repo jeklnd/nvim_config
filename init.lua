@@ -1,3 +1,3 @@
-require("lua.lazy")
-require("lua.remap")
-require("lua.set")
+require("plugins")
+require("remap")
+require("set")
